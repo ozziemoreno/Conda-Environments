@@ -8,7 +8,7 @@ conda create -n pytorch1.12.1_rocm5.4_py3.8 python==3.8
 conda activate pytorch1.12.1_rocm5.4_py3.8
 ```
 ```
-pip3 install pip3 install torch==1.12.1 torchvision==0.13.1 -f https://repo.radeon.com/rocm/manylinux/rocm-rel-5.4/
+pip3 install torch==1.12.1 torchvision==0.13.1 -f https://repo.radeon.com/rocm/manylinux/rocm-rel-5.4/
 ```
 
 ## Pytorch 1.12.1 + ROCm 5.4.1 + Python 3.7
